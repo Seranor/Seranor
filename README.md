@@ -14,7 +14,11 @@
   </picture>
 </div>
 
-## 📈Statistics
+## About Me
+......
+
+
+## Statistics
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -33,7 +37,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Seranor&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Readme Card" style="width: 50%;" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seranor&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Top Langs" style="width: 45%;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seranor&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Top Langs" style="width: 45%;" />
     </a>
 </div>
 
@@ -41,8 +45,6 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Seranor" />
     <img  src="https://github-profile-trophy.vercel.app/?username=Seranor" />
 </div>
-
-## Some Statistics About Me
 
 
 
