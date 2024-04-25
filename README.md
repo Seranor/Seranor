@@ -16,20 +16,20 @@
 
 ## 📈Statistics
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=fjqz177&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=Seranor&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--   profile-night-rainbow.svg -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api?username=fjqz177" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api/top-langs/?username=fjqz177&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api?username=Seranor" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api/top-langs/?username=Seranor&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=fjqz177" />
-    <img  src="https://github-profile-trophy.vercel.app/?username=fjqz177" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Seranor" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=Seranor" />
 </div>
 
 ## Some Statistics About Me
