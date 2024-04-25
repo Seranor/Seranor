@@ -16,28 +16,6 @@
 
 ## 📈Statistics
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=Seranor&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--   profile-night-rainbow.svg -->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<div align="center">
-<span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api?username=Seranor" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api/top-langs/?username=Seranor&layout=compact&langs_count=8" />
-<span>&emsp;&emsp;</span>
-</div>
-
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Seranor" />
-    <img  src="https://github-profile-trophy.vercel.app/?username=Seranor" />
-</div>
-
-## Some Statistics About Me
-
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=Seranor&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seranor&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
@@ -49,3 +27,22 @@
       </picture>
   </tr>
 </table>
+
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Seranor&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Readme Card" style="width: 50%;" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seranor&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Top Langs" style="width: 45%;" />
+    </a>
+</div>
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Seranor" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=Seranor" />
+</div>
+
+## Some Statistics About Me
+
+
+
