@@ -1,7 +1,7 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="">
+    <a href="https://github.com/Seranor">
       <img src="https://seranor-1251900471.cos.ap-chengdu.myqcloud.com/image/helloworld.svg" />
     </a>
   </div>
